@@ -1,7 +1,10 @@
 name: Github Actions Workflows
 
-run-name: ${{ github.actor }} is learning GitHub Actions
-on: [push]
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +24,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-  steps:
+    steps:
       - uses: actions/checkout@v4
       
       - uses: actions/setup-node@v4
