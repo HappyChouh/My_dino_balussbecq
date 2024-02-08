@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My_dino_balussbecq/static/css/main.f855e6bc.css",
+    "main.js": "/My_dino_balussbecq/static/js/main.4d959d72.js",
+    "static/js/592.7f72a991.chunk.js": "/My_dino_balussbecq/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/My_dino_balussbecq/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/My_dino_balussbecq/index.html",
+    "main.f855e6bc.css.map": "/My_dino_balussbecq/static/css/main.f855e6bc.css.map",
+    "main.4d959d72.js.map": "/My_dino_balussbecq/static/js/main.4d959d72.js.map",
+    "592.7f72a991.chunk.js.map": "/My_dino_balussbecq/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4d959d72.js"
+  ]
+}
